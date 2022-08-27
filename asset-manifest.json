@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-toda/static/css/main.a0d7cecc.chunk.css",
+    "main.js": "/react-toda/static/js/main.a5af3416.chunk.js",
+    "main.js.map": "/react-toda/static/js/main.a5af3416.chunk.js.map",
+    "runtime-main.js": "/react-toda/static/js/runtime-main.cab5ffab.js",
+    "runtime-main.js.map": "/react-toda/static/js/runtime-main.cab5ffab.js.map",
+    "static/js/2.68b0f187.chunk.js": "/react-toda/static/js/2.68b0f187.chunk.js",
+    "static/js/2.68b0f187.chunk.js.map": "/react-toda/static/js/2.68b0f187.chunk.js.map",
+    "index.html": "/react-toda/index.html",
+    "static/css/main.a0d7cecc.chunk.css.map": "/react-toda/static/css/main.a0d7cecc.chunk.css.map",
+    "static/js/2.68b0f187.chunk.js.LICENSE.txt": "/react-toda/static/js/2.68b0f187.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-toda/static/media/arrow-drop-down.98ef3b31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cab5ffab.js",
+    "static/js/2.68b0f187.chunk.js",
+    "static/css/main.a0d7cecc.chunk.css",
+    "static/js/main.a5af3416.chunk.js"
+  ]
+}
